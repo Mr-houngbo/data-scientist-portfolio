@@ -24,8 +24,7 @@ Un portfolio professionnel moderne et responsive pour GORD ENVER, Data Scientist
 
 ## 📁 Structure du projet
 
-\`\`\`
-├── app/
+├── app/\
 │   ├── globals.css          # Styles globaux\
 │   ├── layout.tsx           # Layout principal avec métadonnées SEO\
 │   └── page.tsx             # Page principale du portfolio\
@@ -33,7 +32,6 @@ Un portfolio professionnel moderne et responsive pour GORD ENVER, Data Scientist
 ├── package.json\
 ├── tailwind.config.js       # Configuration Tailwind\
 └── README.md\
-\`\`\`
 
 ## 🎨 Sections du portfolio
 
