@@ -26,13 +26,13 @@ Un portfolio professionnel moderne et responsive pour GORD ENVER, Data Scientist
 
 \`\`\`
 ├── app/
-│   ├── globals.css          # Styles globaux
-│   ├── layout.tsx           # Layout principal avec métadonnées SEO
-│   └── page.tsx             # Page principale du portfolio
-├── public/                  # Assets statiques
-├── package.json
-├── tailwind.config.js       # Configuration Tailwind
-└── README.md
+│   ├── globals.css          # Styles globaux\
+│   ├── layout.tsx           # Layout principal avec métadonnées SEO\
+│   └── page.tsx             # Page principale du portfolio\
+├── public/                  # Assets statiques\
+├── package.json\
+├── tailwind.config.js       # Configuration Tailwind\
+└── README.md\
 \`\`\`
 
 ## 🎨 Sections du portfolio
@@ -187,8 +187,3 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 4. Push vers la branche
 5. Ouvrir une Pull Request
 
-## 📞 Contact
-
-GORD ENVER - [LinkedIn](https://linkedin.com/in/gord-enver) - contact@gordenver.dev
-
-Lien du projet: [https://github.com/username/gord-enver-portfolio](https://github.com/username/gord-enver-portfolio)
